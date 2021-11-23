@@ -14,6 +14,9 @@ public class Decorator_2 {
 
         Enderecador2 enderecador = new EnderecadorSimples2();
         // agora conseguimos reutilizar a mesma variavel
+        // ou seja, esse uso da interface permite que a gente troque a implementacao que queremos usar
+        // sem precisar mexer no codigo do cliente que esta usando
+        // nao importa qual implementacao de Enderecador que vai ser utilizada
         enderecador = new EnderecadorCaixaAlta2(enderecador);
 
         String enderecoFormatado = enderecador.preparaEndereco(endereco);
