@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 /**
  * JAVA Design Patterns - Adapter (3)
  * Muito parecido com o segundo exemplo, temos as mesmas 4 entidades, os mesmos 4 conceitos
- * Usando heranca
+ * Mas agora usando heranca ao inves de composicao
  */
 public class Adapter_3 {
 

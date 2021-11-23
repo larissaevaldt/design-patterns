@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 /**
  *  GoF - Design Patters - Adapter (Wrapper) (1)
- *  Uma classe que implementa uma interface, e reutiliza outra que já existe para adaptar pra essa mesma interface.
+ *  REUTILIZE implementacoes de forma ORGANIZADA com o padrao ADAPTER ou WRAPPER
  *  O padrao sera apresentado em 3 exemplos diferentes:
  *  Simples + Conceitos
  *  Composicao + Conceitos
