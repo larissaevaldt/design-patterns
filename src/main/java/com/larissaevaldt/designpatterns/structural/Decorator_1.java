@@ -7,6 +7,7 @@ package com.larissaevaldt.designpatterns.structural;
  * sem precisar usar heranca, ou seja, tornando isso um pouco mais flexivel
  * Veremos 4 exemplos / 4 formas de usar o Decorator
  * Porem so as 2 ultimas sao de fato Decorator conforme o livro do GoF
+ * Decorator simples
  */
 public class Decorator_1 {
 
